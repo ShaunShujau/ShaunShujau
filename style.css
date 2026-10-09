@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    font-size: x-large;
+}
+
+#title{
+        justify-self: center;
+}
