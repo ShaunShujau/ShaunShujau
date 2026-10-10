@@ -1,10 +1,19 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: #2E0E02;
+    color: rgb(196, 131, 131);
     font-family: Verdana;
     font-size: x-large;
 }
 
 #title{
-        justify-self: center;
+    justify-self: center;
+    font-size: xx-large;
+}
+
+section{
+    margin-top: 10px;
+}
+
+img{
+    height: 100px;
 }
